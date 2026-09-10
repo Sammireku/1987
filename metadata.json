@@ -1,0 +1,10 @@
+{
+  "name": "1987 Furniture",
+  "description": "Custom handcrafted furniture company and shop with interactive 3D studio, true-scale AR preview, AI CAD-to-3D generator, and bespoke order management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
